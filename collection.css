@@ -22,6 +22,21 @@ a {
     font-size: 17px;
     font-style: italic;
 }
+.AxaliBotlebi {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 90px;
+}
+
+img {
+    width: 188px;
+    height: 220px;
+    border-radius: 3%;
+    object-fit: contain;
+    aspect-ratio: 4/3;
+}
+
 
 #language-switch {
     display: flex;
